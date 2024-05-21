@@ -1,4 +1,27 @@
-# Document-classification-HW-Scan
+# Tech Stack:
+* DigiKam - Metadata Labelling
+* IrfanView - Image Viewer
+* VIA Tool - Image annotation
+* Any text editor - Jupyter notebook, VScode..
+
+# Data Collection:
+* DriverTest.exe for Olive, Lime, Cherry devices.
+* Wscan for Manhattan
+* If the inputs are being scanned, else the existing inputs can be used.
+
+# Used Libraries:
+* Numpy
+* OS
+* OpenCv
+* Sklearn
+* shutil
+* pandas
+* tensorflow
+* keras
+* matplotlib
+* imgaug
+
+{Install the required libraries using pip install}
 
 # Data
 Assuming you have some data to test or do the inference to the model. Now preprocess the data as mentioned below
